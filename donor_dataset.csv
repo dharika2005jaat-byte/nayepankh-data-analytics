@@ -1,0 +1,16 @@
+DonorID,Name,Age,City,DonationAmount,DonationDate,Channel,Frequency
+D001,Rajesh Kumar,45,Mumbai,50000,2025-01-15,Online,Monthly
+D002,Priya Singh,38,Delhi,75000,2025-01-20,Offline,Quarterly
+D003,Amit Patel,52,Bangalore,100000,2025-01-25,Online,Yearly
+D004,Neha Gupta,33,Pune,25000,2025-02-10,Offline,One-time
+D005,Arjun Sharma,41,Hyderabad,60000,2025-02-14,Online,Monthly
+D006,Deepika Verma,29,Chennai,30000,2025-02-18,Offline,Quarterly
+D007,Vikram Singh,56,Kolkata,150000,2025-03-01,Online,Yearly
+D008,Meera Iyer,44,Bangalore,45000,2025-03-05,Offline,Quarterly
+D009,Rohit Desai,35,Mumbai,55000,2025-03-10,Online,Monthly
+D010,Anjali Nair,27,Kochi,20000,2025-03-15,Offline,One-time
+D011,Sanjay Malhotra,48,Delhi,80000,2025-03-20,Online,Monthly
+D012,Pooja Reddy,31,Hyderabad,35000,2025-04-01,Offline,Quarterly
+D013,Nikhil Agarwal,50,Pune,120000,2025-04-05,Online,Yearly
+D014,Divya Kapoor,36,Mumbai,40000,2025-04-10,Offline,Quarterly
+D015,Ravi Menon,55,Bangalore,95000,2025-04-15,Online,Monthly

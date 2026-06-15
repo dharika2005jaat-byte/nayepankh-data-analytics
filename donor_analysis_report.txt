@@ -1,0 +1,48 @@
+
+================================================================================
+        NayePankh Foundation — Donor Analytics Report
+        Generated: 2026-06-15 19:40:03
+================================================================================
+
+📊 KEY METRICS:
+  • Total Donors: 15
+  • Total Donations: ₹980,000
+  • Average Donation: ₹65,333
+  • Median Donation: ₹55,000
+  • Donation Range: ₹20,000 - ₹150,000
+
+👥 DEMOGRAPHIC INSIGHTS:
+  • Average Donor Age: 41.3 years
+  • Age Range: 27 - 56 years
+
+📱 CHANNEL PERFORMANCE:
+        DonationAmount                    
+                   sum count          mean
+Channel                                   
+Offline         270000     7  38571.428571
+Online          710000     8  88750.000000
+
+🔄 DONATION FREQUENCY:
+          DonationAmount                     
+                     sum count           mean
+Frequency                                    
+Monthly           340000     5   68000.000000
+One-time           45000     2   22500.000000
+Quarterly         225000     5   45000.000000
+Yearly            370000     3  123333.333333
+
+🏙️ TOP CITIES BY DONATIONS:
+              sum  count
+City                    
+Bangalore  240000      3
+Delhi      155000      2
+Kolkata    150000      1
+Mumbai     145000      3
+Pune       145000      2
+Hyderabad   95000      2
+Chennai     30000      1
+Kochi       20000      1
+
+================================================================================
+    Analysis complete. Visualizations saved to outputs/ directory.
+================================================================================
